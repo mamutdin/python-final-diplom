@@ -1,3 +1,7 @@
 Django==2.2.13
 pytz==2018.5
 django-rest-passwordreset
+djangorestframework~=3.14.0
+requests~=2.28.2
+ujson~=5.7.0
+PyYAML~=6.0
