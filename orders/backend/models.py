@@ -18,7 +18,6 @@ STATE_CHOICES = (
 USER_TYPE_CHOICES = (
     ('shop', 'Магазин'),
     ('buyer', 'Покупатель'),
-
 )
 
 
